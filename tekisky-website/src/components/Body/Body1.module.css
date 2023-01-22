@@ -1,0 +1,28 @@
+.body1{
+    width: 50%;
+    /* height: 50vh; */
+}
+
+.body1li{
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(75, 75, 219);
+    padding: 20px 20px;
+    
+   
+    
+}
+.p{
+    /* font-size: 20px; */
+   margin-left: 20px;
+   width: 120%;
+}
+@media (max-width:500px) {
+    .ul-body1{
+        margin-top: 50%;
+    }
+    .body1{
+        width: 100%;
+    }
+}
+   

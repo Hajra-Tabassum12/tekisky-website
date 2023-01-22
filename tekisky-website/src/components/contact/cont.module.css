@@ -1,0 +1,56 @@
+.main{
+    display: flex;
+}
+.mid{
+    width: 50%;
+}
+.end{
+    width: 50%;
+}
+.frame{
+    width: 90%;
+    height: 76vh;
+}
+.inp1{
+    padding: 10px 60px;
+    margin-right: 20px;
+    margin-top: 20px;
+    outline: none;
+   
+}
+.inp2{
+    padding: 10px 212px;
+    margin-top: 20px;
+    outline: none;
+    
+}
+.inp3{
+    padding: 0 175px;
+    margin-top: 20px;
+    outline: none;
+}
+.btn{
+    margin-left: 35%;
+    padding: 10px 25px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: #0652DD;
+    color: white;
+    font-size: 18px;
+    
+}
+.hh{
+    text-align: center;
+    padding: 40px 40px;
+   font-family: cursive;
+}
+.pp{
+    font-size: 30px;
+}
+::placeholder{
+ padding-right: 20px;
+    text-align:left;
+    font-size: 18px;
+    padding: 0 -30px;
+}

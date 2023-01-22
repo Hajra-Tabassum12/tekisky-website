@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    position: fixed;
+    background-color: white;
+    width: 100%;
+   
+    
+    
+}
+.li{
+    float: left;
+    list-style: none;
+    padding-top: 20px;
+    
+}
+a:hover{
+    color: rgb(24, 144, 191);
+}
+.a{
+    text-decoration: none;
+    color: blue;
+    margin: 20px;
+    font-size: 18px;
+}
+.h1{
+    font-weight: normal;
+    font-size: 43px;
+}
+
+@media (max-width:500px) {
+    .li{
+        padding-top: 5px;
+    }
+    .a{
+        margin: 9px;
+        font-size: 15px;
+    }
+}

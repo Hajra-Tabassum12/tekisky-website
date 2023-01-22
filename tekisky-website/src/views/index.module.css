@@ -1,0 +1,36 @@
+.main{
+    background-color: rgb(203, 231, 242);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px 30px;
+}
+.s2{
+    margin-top: 40px;
+    margin-left: -1%;
+    width: 40%;
+}
+.s1{
+    margin-left: 10%;
+    width: 40%;
+}
+
+.whole{
+    display: flex;
+    flex-wrap: wrap;
+    background-color:#0652DD ;
+}
+.abt{
+    text-align: center;
+    background-color: rgb(195, 227, 239);
+    padding: 30px 30px;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.head{
+    font-size: 40px;
+    padding: 20px 20px;
+}
+.mid{
+    padding: 10px 10px;
+}
+
